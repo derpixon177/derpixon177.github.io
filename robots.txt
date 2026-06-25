@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /_astro/
+Sitemap: https://derpixon177.github.io/sitemap-index.xml
